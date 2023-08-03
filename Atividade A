@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade A</title>
+</head>
+<body>
+    <ol>
+        <li>
+            Introdução
+        </li>
+        <ol>
+            <li>
+               Tecnologia da Informação (TI) 
+            </li>
+            <li>
+              O que é HTML?
+            </li>
+            <li>
+               O que é Java script ?
+            </li>
+            </ol>
+            <li>
+            Sobre Tecnologia da informação (TI) 
+            </li>
+            <ol>
+            <li>
+                É uma área que utiliza a computação para que?
+                </li>
+                <ul>
+                <li>
+                    Produzir 
+                </li>
+                <li>
+                    Transmitir 
+                </li>
+              <li>
+                    Armazenar 
+             </li>
+             <li>
+                    Acessar 
+            </li>
+            <li>
+                    Usar diversas informações 
+             </li>
+
+
+            </ul>
+            <li>
+               Tecnologia da informação é dívida em quantas áreas ?
+            </li>
+            <ul>
+                <li>
+                   Programação.
+                </li>
+                <li>
+                   Banco de dados.
+                </li>
+               <li>
+                 Suporte Técnico 
+             </li>
+       <li>
+             Segurança da informação 
+             </li>
+       <li>
+             Testes 
+             </li>
+ 
+            </ul>
+            <li>
+               O que significa HTML? 
+            </li>
+            <ul>
+                <li>
+                   HYPER TEXT MARKUP LANGUAGE 
+                </li>
+                <li>
+                   É um dos blocos fundamentais mais importantes da web 
+                </li>
+            </ul>
+        </ol>
+            <li>
+            Sobre a tag DOCTYPE
+            </li>
+        <ol>
+            <li>
+               Qual o significado? 
+            </li>
+            <ul>
+                <li>
+                   É uma maneira de informar ao navegador que esta é uma página HTML. 
+                </li>
+                <li>
+                   E qual versão do HTML estamos usando. 
+                </li>
+            </ul>
+            <li>
+                Tipos de hardware.
+            </li>
+            <ul>
+                <li>
+                    Hardware de armazenamento.
+                </li>
+                <li>
+                    Hardware de processamento.
+                </li>
+                <li>
+                    Hardware de entrada.
+                </li>
+                <li>
+                    Hardware de saída.
+                </li>
+            </ul>
+        </ol>
+        <li>
+            Sobre o Software
+        </li>
+        <ol>
+            <li>
+                Qual a função de um software?
+            </li>
+            <ul>
+                <li>
+                    Faz a máquina compreender comandos do usuário.
+                </li>
+                <li>
+                    Executa os comandos do usuário.
+                </li>
+            </ul>
+            <li>
+                São tipos de software.
+            </li>
+            <ul>
+                <li>
+                    Software de programação.
+                </li>
+                <li>
+                    Software de aplicação.
+                </li>
+                <li>
+                    Software de sistema.
+                </li>
+            </ul>
+            <li>
+                A importância de um software.
+            </li>
+            <ul>
+                <li>
+                    Transforma dados em informações.
+                </li>
+                <li>
+                    Responsável pela lógica de um sistema.
+                </li>
+            </ul>
+        </ol>
+        <li>
+            Fundamentos de um sistema
+        </li>
+        <ol>
+            <li>
+                Quais os componentes de um sistema?
+            </li>
+            <ul>
+                <li>
+                    Recursos de dados.
+                </li>
+                <li>
+                    Recursos de rede.
+                </li>
+            </ul>
+            <li>
+                Suas funções.
+            </li>
+            <ul>
+                <li>
+                    Recebimento de dados.
+                </li>
+                <li>
+                    Processamento de dados.
+                </li>
+                <li>
+                    Transferência de dados.
+                </li>
+            </ul>
+        </ol>
+    </ol>
+</body>
+</html>

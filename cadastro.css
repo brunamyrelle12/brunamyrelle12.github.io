@@ -1,0 +1,30 @@
+.form-table tr{
+    height: 45px;
+};
+
+.form-table td{
+    width: 250px;
+};
+
+.text-block {
+    font-family: Georgia;
+    font-size: 14px;
+    color: slategray;
+}
+
+.text-box {
+    height: 30px;
+    font-size: 14px;
+    color: beige; 
+}
+
+.button {
+    position: relative;
+    bottom: 140px;
+    left: 265px;
+    height: 35px;
+    width: 70px;
+    border: 1px solid azure;
+    cursor: pointer;
+    color:beige;
+}
